@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    margin: 30px;
+}
+
+.container{
+    background-color: black;
+    color: lavender;
+    padding: 30px;
+    line-height: 35px;
+}
+
+.container1{
+    margin-top: 10px;
+}
+
+.mian_container{
+    display: flex;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+.sub_container1{
+    padding: 15px;
+    background-color:deeppink;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.sub_container1  h2{
+    color: gold;
+    margin-bottom: 10px;
+}
+
+.end-part{
+    background-color:rgb(111, 143, 139);
+    color:white;
+    line-height: 35px;
+    margin-top: 20px;
+    padding: 
+}
